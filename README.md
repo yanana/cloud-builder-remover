@@ -1,5 +1,7 @@
 # cloud-builder-remover
 
+[![Docker Repository on Quay](https://quay.io/repository/yanana/cloud-builder-remover/status "Docker Repository on Quay")](https://quay.io/repository/yanana/cloud-builder-remover)
+
 This is a tool builder to remove something simply using `rm` command, for use in [Google Cloud Container Builder](https://cloud.google.com/container-builder/docs/)'.
 
 ## Examples
